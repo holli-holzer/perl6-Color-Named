@@ -2,3 +2,5 @@
 *.tar.gz
 .precomp
 .ddt
+.nav-marker-rules
+
